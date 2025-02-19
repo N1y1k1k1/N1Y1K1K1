@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm nykk! trying to learn and liking this very much!
+
 <!--
 **N1y1k1k1/N1Y1K1K1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
